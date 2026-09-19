@@ -1,0 +1,20 @@
+{
+  "name": "backend-mastery",
+  "version": "1.0.0",
+  "description": "Ruta de Maestría Senior & Staff en Backend Architecture, REST APIs, SQL, NoSQL y Sistemas Distribuidos",
+  "type": "module",
+  "scripts": {
+    "api:senior:01": "tsx tracks/01-rest-apis/04-senior-internals/01-idempotency-key-engine.ts",
+    "api:senior:02": "tsx tracks/01-rest-apis/04-senior-internals/02-cursor-vs-offset-pagination.ts",
+    "api:senior:03": "tsx tracks/01-rest-apis/04-senior-internals/03-rate-limiter-sliding-window.ts",
+    "sql:senior:01": "tsx tracks/02-sql/04-senior-internals/01-concurrency-locks-and-skip-locked.ts",
+    "sql:senior:02": "tsx tracks/02-sql/04-senior-internals/02-isolation-levels-and-anomalies.ts",
+    "sql:senior:03": "tsx tracks/02-sql/04-senior-internals/03-connection-pool-starvation-and-sizing.ts",
+    "nosql:senior:01": "tsx tracks/03-nosql/05-senior-internals/01-cache-stampede-and-mutex.ts",
+    "nosql:senior:02": "tsx tracks/03-nosql/05-senior-internals/02-distributed-lock-redlock.ts",
+    "nosql:senior:03": "tsx tracks/03-nosql/05-senior-internals/03-cap-quorum-eventual-consistency.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.23.13"
+  }
+}
