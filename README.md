@@ -2,6 +2,16 @@
 
 Repositorio maestro de referencia técnica profunda para consolidar habilidades de nivel **Senior / Staff / Principal Backend Engineer** en **Arquitectura de APIs REST empresariales y RFCs oficiales, Persistencia Relacional (SQL & PostgreSQL Internals), Almacenamiento Distribuido NoSQL (MongoDB, Redis, DynamoDB) y Patrones de Sistemas Distribuidos**.
 
+---
+
+## 🎯 Preguntas de Entrevista Técnica
+
+Para preparar entrevistas técnicas de alto nivel (**Senior Backend Engineer, Systems Architect y Tech Lead**), este módulo incluye la guía:
+
+👉 **[Las 100 Preguntas Más Comunes en Entrevistas Técnicas: Backend & Distributed Systems](./INTERVIEW-QUESTIONS.md)** (RFC 9110, RFC 7807/9457, SQL MVCC, SKIP LOCKED, NoSQL CAP/PACELC, Distributed Sagas, Outbox Pattern, con criterios 🚩 *Red Flags* vs 🟢 *Green Flags*).
+
+---
+
 ## 🌐 The Mastery Suite (Ecosistema Modular)
 
 | Repositorio | Especialidad Técnica | Enlace |
